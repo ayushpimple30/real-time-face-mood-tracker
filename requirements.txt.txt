@@ -1,0 +1,6 @@
+opencv-python
+streamlit
+deepface
+numpy
+pandas
+Pillow
