@@ -1,5 +1,0 @@
-opencv-python
-deepface
-streamlit
-numpy
-pandas
