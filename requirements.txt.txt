@@ -1,6 +1,4 @@
-opencv-python
 streamlit
+opencv-python
 deepface
 numpy
-pandas
-Pillow
